@@ -28,6 +28,7 @@ export default function Footer() {
           href="https://twitter.com/Gita_GPT"
           className="group"
           aria-label="Gita GPT on Twitter"
+          target="blank"
         >
           <svg
             aria-hidden="true"
@@ -40,6 +41,7 @@ export default function Footer() {
           href="https://github.com/snypiie/gitagpt"
           className="group"
           aria-label="Gita GPT on GitHub"
+          target="blank"
         >
           <svg
             aria-hidden="true"
@@ -53,6 +55,7 @@ export default function Footer() {
           href="https://facebook.com/gitagpt"
           className="group"
           aria-label="Gita GPT on Facebook"
+          target="blank"
         >
           <svg
             aria-hidden="true"
